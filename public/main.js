@@ -1,3 +1,5 @@
+//collaborated with team Hayden to successfully complete the project 
+
 var thumbUp = document.getElementsByClassName("fa-thumbs-up");
 var thumbDown = document.getElementsByClassName("fa-thumbs-down");
 var trash = document.getElementsByClassName("fas fa-trash-alt");
@@ -72,3 +74,4 @@ Array.from(trash).forEach(function (element) {
     });
   });
 });
+// collaborated with team Hayden to successfully complete the project 
