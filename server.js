@@ -1,3 +1,5 @@
+// collaborated with team Hayden to successfully complete the project 
+
 // server.js
 
 // set up ======================================================================
@@ -52,3 +54,4 @@ app.use(flash()); // use connect-flash for flash messages stored in session
 // launch ======================================================================
 app.listen(port);
 console.log('The magic happens on port ' + port);
+// collaborated with team Hayden to successfully complete the project 
